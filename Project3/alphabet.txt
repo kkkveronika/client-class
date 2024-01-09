@@ -1,0 +1,18 @@
+Client ¹1
+Full name:  i i i
+Adress:  i, i, 1 
+Card number:  20
+Bank account number:  3
+Phone number:  4
+Client ¹2
+Full name:  o o o
+Adress:  o, o, 1 
+Card number:  10
+Bank account number:  3
+Phone number:  4
+Client ¹3
+Full name:  p p p
+Adress:  p, p, 1 
+Card number:  8
+Bank account number:  3
+Phone number:  4
